@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/glossyjose/POC_Demo/_apis/build/status/Micro-service%20build?branchName=master)](https://dev.azure.com/glossyjose/POC_Demo/_build/latest?definitionId=3&branchName=master)
 Microservice Kubernetes Sample
 =====================
 
